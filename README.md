@@ -13,19 +13,12 @@
 
 
 
-# 3. Data Labelling Azure AI | Machine Learning 
-
-
-- https://github.com/barirahzainalabidin/Data-Labelling-Azure-ML
-
-
-
-# 4. Azure Open AI
+# 3. Azure Open AI
 
 -
 
 
-# 5. Azure AI | Sound / Speech Recognition
+# 4. Azure AI | Sound / Speech Recognition
 
 
 - 
